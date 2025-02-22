@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "dawn-bread-e647",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d2fb35db-a0bf-488f-9a98-36258bdf0374",
+      "database_name": "long-base-dd28-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
